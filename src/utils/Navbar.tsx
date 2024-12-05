@@ -70,7 +70,7 @@ export function Navbar() {
         >
           <div className="flex flex-col md:flex-row md:mx-6">
             <NavLink
-              to="/"
+              to="/home"
               className=" p-1 my-1 text-sm text-white transition-colors duration-300 transform rounded-lg hover:bg-gray-700 md:mx-2 md:my-0"
             >
               Home Page

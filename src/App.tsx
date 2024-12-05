@@ -22,7 +22,7 @@ function App() {
       <QueryClientProvider client={queryClient}>
         <Navbar />
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/home" element={<HomePage />} />
           <Route path="/notes" element={<NotesPage />} />
           <Route path="/note/:id" element={<NotePage />} />
           <Route path="/create-note" element={<NoteForm />} />
