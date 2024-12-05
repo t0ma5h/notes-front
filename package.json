@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https:/t0ma5h.github.io/home",
+  "homepage": "https:/t0ma5h.github.io/notes-front",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
